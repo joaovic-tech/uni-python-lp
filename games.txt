@@ -1,0 +1,13 @@
+
+Jogo: csgo
+Dispositivo: pc
+--------------------------------------
+            
+Jogo: dayz
+Dispositivo: pc
+--------------------------------------
+            
+Jogo: warframe
+Dispositivo: pc
+--------------------------------------
+            
